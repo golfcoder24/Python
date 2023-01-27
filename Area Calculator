@@ -1,5 +1,5 @@
 """
-This program prompts the user tos select a shape and then prints the area of that shape.
+This program prompts the user to select a shape and then prints the area of that shape.
 """
 
 print "The area calculator program is now running"
