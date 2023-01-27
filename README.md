@@ -1,2 +1,2 @@
 # Python
-# THis repository showcases my skills in python!
+# This repository showcases my skills in python!
