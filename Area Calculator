@@ -1,0 +1,18 @@
+"""
+This program prompts the user tos select a shape and then prints the area of that shape.
+"""
+
+print "The area calculator program is now running"
+option = raw_input("Enter C for Circle or T for Triangle: ")
+if option == "C":
+  radius = float(raw_input("Enter the radius: "))
+  area = 3.1459 * (radius ** 2)
+  print area
+elif option == "T":
+  base = float(raw_input("Enter the base: "))
+  height = float(raw_input("Enter the height: "))
+  area = 0.5 * base * height
+  print area
+else:
+  print "You entered an invalid shape."
+print "The program is exiting."
